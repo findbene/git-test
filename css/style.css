@@ -30,3 +30,11 @@ footer {
     border-bottom: 1px ridge;
     min-height:200px;
 }
+
+a {
+    text-decoration: none;
+}
+
+.navbar {
+    background-color: #901CAD;
+}
