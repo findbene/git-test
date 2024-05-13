@@ -44,3 +44,7 @@ a {
     border-top: none;
     padding: 10px;
 }
+
+.accordion-button {
+    background-color: #d3d3d3;
+}
